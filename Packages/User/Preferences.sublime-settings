@@ -1,7 +1,6 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-	"ensure_newline_at_eof_on_save": true,
 	"draw_indent_guides": false,
 	"file_exclude_patterns":
 	[
@@ -37,5 +36,5 @@
 	"tab_size": 2,
 	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": true
 }
