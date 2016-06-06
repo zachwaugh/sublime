@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"draw_indent_guides": false,
 	"file_exclude_patterns":
 	[
@@ -34,6 +34,7 @@
 	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
 	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true

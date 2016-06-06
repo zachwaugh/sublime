@@ -5,6 +5,7 @@
 		"podspec",
 		"Cheffile",
 		".irbrc",
-		"Podfile"
+		"Podfile",
+		"jbuilder"
 	]
 }

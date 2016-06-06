@@ -1,17 +1,27 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"CTags",
 		"eco",
 		"GitGutter",
 		"Handlebars",
 		"IcedCoffeeScript",
 		"Indent XML",
+		"Javascript Beautify",
+		"Package Control",
 		"Pretty JSON",
 		"Ruby Slim",
+		"Rust",
 		"SCSS",
 		"SublimeERB",
+		"Swift",
 		"Theme - Soda",
+		"Theme - Spacegray",
 		"Tomorrow Color Schemes"
 	]
 }
